@@ -147,9 +147,9 @@ Wait for review
 
 Your Name
 Java Developer | Backend Engineer
-📧 Email — lalithasiva0301@gmail.com
+📧 Email — Selvabharathisivam@gmail.com
  
-🐙 GitHub — https://github.com/Lalithas03/
+🐙 GitHub — https://github.com/selvabharathi125
 
 ⭐ Show Your Support
 
